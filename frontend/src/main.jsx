@@ -4,6 +4,5 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <h1>Hello Online Course Platform</h1>
   </React.StrictMode>,
 )
